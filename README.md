@@ -1,10 +1,10 @@
 [👋] Frantisek Vojta
 
-[☕] Java 
-[🐍] Python 
-[🛠️] Software 
-[🌐] Network Admin & Developer 
-[🐧] Linux Enjoyer 
+[☕] Java                
+[🐍] Python           
+[🛠️] Software         
+[🌐] Network Admin & Developer          
+[🐧] Linux Enjoyer            
  
 
 <!---
