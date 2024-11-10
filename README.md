@@ -3,7 +3,6 @@
 [☕] Java           
 [🐍] Python        
 [🛠️] Software        
-[🔒] Cyber Security       
 [🌐] Network Admin & Developer      
 [🐧] Linux Enjoyer       
  
