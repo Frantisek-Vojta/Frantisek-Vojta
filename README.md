@@ -2,8 +2,7 @@
 
 [☕] Java           
 [🐍] Python        
-[🛠️] Software        
-[🌐] Network Admin & Developer      
+[🛠️] Software           
 [🐧] Linux Enjoyer       
  
 <!---
