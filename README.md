@@ -1,4 +1,4 @@
-[👋] Frantisek-Vojta
+[👋] Frantisek Vojta
 
 [☕] Java           
 [🐍] Python        
