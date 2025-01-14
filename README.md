@@ -3,6 +3,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&layout=compact&theme=light&langs_count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&theme=radical&layout=pie&langs_count=10)
 
 
 <br> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Java Icon" width="100">
