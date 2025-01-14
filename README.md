@@ -7,9 +7,12 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="100">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="100">
     <br><br>
+  </div>
+</div>
+<div padding-left:25px>
     <p>[☕] Java</p>
     <p>[🐍] Python</p>
     <p>[🛠️] Software</p>
     <p>[🐧] Linux Enjoyer</p>
-  </div>
+  
 </div>
