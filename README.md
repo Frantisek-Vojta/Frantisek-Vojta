@@ -9,19 +9,19 @@
     <br><br>
     <table style="font-family: 'Courier New', monospace; font-size: 16px; border-spacing: 0 10px;">
       <tr>
-        <td>[☕]</td>
+        <td>☕</td>
         <td>Java</td>
       </tr>
       <tr>
-        <td>[🐍]</td>
+        <td>🐍</td>
         <td>Python</td>
       </tr>
       <tr>
-        <td>[🛠️]</td>
+        <td>🛠️</td>
         <td>Software</td>
       </tr>
       <tr>
-        <td>[🐧]</td>
+        <td>🐧</td>
         <td>Linux Enjoyer</td>
       </tr>
     </table>
