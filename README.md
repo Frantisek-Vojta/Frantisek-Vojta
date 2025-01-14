@@ -1,6 +1,6 @@
 # 👋 Frantisek Vojta
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark)<br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&exclude_repo=starbucks-vojta,animacce-JS)
 
 
