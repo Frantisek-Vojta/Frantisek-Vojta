@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  [☕] Java  
-  [🐍] Python  
-  [🛠️] Software  
-  [🐧] Linux Enjoyer
+  [☕] Java  <br>
+  [🐍] Python  <br>
+  [🛠️] Software  <br> 
+  [🐧] Linux Enjoyer <br>
 </p>
