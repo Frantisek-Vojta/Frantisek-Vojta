@@ -1,4 +1,4 @@
-<div align="center">
+
   <div style="display: inline-block; text-align: left; line-height: 2;">
     <img src="https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark" />
     <br>
