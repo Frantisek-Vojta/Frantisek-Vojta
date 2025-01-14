@@ -7,11 +7,11 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="100">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="100">
     <br><br>
-    <pre style="font-family: 'Courier New', monospace; font-size: 16px;">
-[☕] Java      
-[🐍] Python    
-[🛠️] Software  
-[🐧] Linux Enjoyer
-    </pre>
+    <div style="font-family: 'Courier New', monospace; font-size: 16px;">
+      <p>[☕] Java</p>
+      <p>[🐍] Python</p>
+      <p>[🛠️] Software</p>
+      <p>[🐧] Linux Enjoyer</p>
+    </div>
   </div>
 </div>
