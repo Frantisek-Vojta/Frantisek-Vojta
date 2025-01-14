@@ -4,7 +4,5 @@
 [☕] Java  
 
 [🐍] Python  
-
 [🛠️] Software 
-
 [🐧] Linux Enjoyer
