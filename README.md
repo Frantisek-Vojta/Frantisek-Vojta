@@ -9,7 +9,7 @@
     <br><br>
   </div>
 </div>
-<div padding-left="15px">
+<div padding-left="150px">
     <p>[☕] Java</p>
     <p>[🐍] Python</p>
     <p>[🛠️] Software</p>
