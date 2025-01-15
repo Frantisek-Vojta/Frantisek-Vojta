@@ -19,14 +19,11 @@ Welcome to my GitHub profile! I'm František, a passionate junior web developer 
 ---
 ## 🚀 Featured Technologies
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS Icon" width="70" height="70">
-</div>
-
+- **Python**: Versatile and powerful programming language.
+- **Java**: Object-oriented programming for software development.
+- **JavaScript**: Core of modern web applications.
+- **HTML & CSS**: Building blocks of the web.
+- **Linux**: A robust platform for development and exploration.
 
 
 ---
