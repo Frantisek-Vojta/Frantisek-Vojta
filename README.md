@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm František, a passionate junior web developer 
 | 🐍     | Python           |
 | 🌐     | Web Development  |
 | 🐧     | Linux Enthusiast |
+| 🛠️     | Software         |
 
 ---
 
