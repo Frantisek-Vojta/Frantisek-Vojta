@@ -39,4 +39,4 @@ Welcome to my GitHub profile! I'm František, a passionate junior web developer 
 
 ## 🤝 Connect with Me
 
-Feel free to reach out for collaboration, advice, or just to chat about tech! Let’s build something great together. 😊
+Feel free to reach out for collaboration, advice, or just to chat about tech! You can find me on Discord: **xcel_cze**. Let’s build something great together. 😊
