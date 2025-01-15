@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm František, a passionate junior web developer 
 <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="70" height="70">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="70" height="70">
-    <img src="https://techstack-generator.vercel.app/discord-icon.svg" alt="Java Icon" width="70" height="70">
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
 
 ---
