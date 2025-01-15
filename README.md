@@ -18,28 +18,6 @@ Welcome to my GitHub profile! I'm František, a passionate junior web developer 
 
 ---
 
-## 🚀 Featured Technologies
-
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="70" height="70">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
-</div>
-
----
-
-## 💻 Tech Highlights
-
-| Symbol | Technology       |
-|--------|------------------|
-| ☕     | Java             |
-| 🐍     | Python           |
-| 🌐     | Web Development  |
-| 🐧     | Linux Enthusiast |
-| 🛠️     | Software         |
-
----
-
 ## 🤝 Connect with Me
 
 You can find me on Discord: **xcel_cze**. 😊
