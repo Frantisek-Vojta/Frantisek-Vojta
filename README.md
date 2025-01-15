@@ -1,15 +1,14 @@
 # 👋 František Vojta
 
-Welcome to my GitHub profile! I'm František, a passionate junior web developer and IT student from Zlín. I specialize in creating modern web applications and exploring innovative software solutions.
+Welcome to my GitHub profile! I'm František, a passionate junior web developer and IT student from Czech republic. I specialize in creating applications and exploring innovative software solutions.
 
 ---
 
 ## ✨ A Quick Snapshot
 
 - 🎓 **Education:** IT student with a focus on applications and web technologies.
-- 💡 **Skills:** Proficient in Java, Python, and web development (HTML, CSS, JavaScript).
+- 💡 **Skills:** junior in Java, Python, and web development (HTML, CSS, JavaScriptn, MySQL).
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.
-- 🖌️ **Creativity:** Occasionally diving into graphic design using Photoshop.
 
 ---
 
