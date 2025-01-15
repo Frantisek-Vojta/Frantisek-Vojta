@@ -1,6 +1,5 @@
 
   <div style="display: inline-block; text-align: left; line-height: 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show_icons=true&theme=dark" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&exclude_repo=starbucks-vojta,animacce-JS" />
     <br><br>
