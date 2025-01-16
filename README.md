@@ -13,7 +13,7 @@
 ## 📊 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&%22%20alt=%22Top%20Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frantisek-vojta)](https://github.com/frantisek-vojta/github-readme-activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frantisek-vojta" />
 
 
 ---
