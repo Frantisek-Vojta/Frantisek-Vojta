@@ -13,7 +13,7 @@
 ## 📊 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&%22%20alt=%22Top%20Languages" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show=stars,rps,commits&theme=algolia&show_icons=true&hide=issues,contribs />
+<img src="https://github-readme-stats.vercel.app/api?username=frantisek-vojta&show=stars,rps,commits&theme=algolia&show_icons=true&hide=issues,contribs"/>
 
 ---
 
