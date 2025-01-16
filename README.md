@@ -12,7 +12,7 @@
 
 ## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&exclude_repo=starbucks-vojta,animacce-JS" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&" alt="Top Languages" />
 
 ---
 
