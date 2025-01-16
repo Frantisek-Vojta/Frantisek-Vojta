@@ -12,7 +12,7 @@
 
 ## 📊 My GitHub Stats
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&%22%20alt=%22Top%20Languages)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&%22%20alt=%22Top%20Languages" />
 
 ---
 
