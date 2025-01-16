@@ -13,6 +13,8 @@
 ## 📊 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantisek-vojta&langs_count=4&layout=compact&theme=dark&%22%20alt=%22Top%20Languages" />
+![GitHub commits](https://activity-graph.herokuapp.com/graph?username=frantisek-vojta&theme=react&hide_border=true)
+
 
 ---
 
