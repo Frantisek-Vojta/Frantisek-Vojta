@@ -1,9 +1,8 @@
-asd # 👋 František Vojta
-
+ # 👋 František Vojta
 ---
 
 ## ✨ A Quick Snapshot
-s
+
 - 🎓 **Education:** IT student with a focus on applications
 - 💡 **Skills:** junior in Java, Python, and web development
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.
