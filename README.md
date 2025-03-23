@@ -1,4 +1,6 @@
-# 👋 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta)
+<h1 align="left">
+  👋 <span style="color: #00FFFF;">Hi, I'm František Vojta</span>
+</h1>
 
 ---
 
