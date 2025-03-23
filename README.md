@@ -1,6 +1,6 @@
 # ![Typing Effect](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=435&lines=Hi%2C+%20%F0%9F%91%8B%20+I%27m+Franti%C5%A1ek+Vojta)
 
-## ![Typing Effect](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=435&lines=I+use+Arch+btw)
+#### ![Typing Effect](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=435&lines=I+use+Arch+btw)
 
 
 
