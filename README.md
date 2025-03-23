@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" fontsize="200px">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+%20%F0%9F%91%8B%20+I%27m+Franti%C5%A1ek+Vojta" alt="Typing Effect" style="vertical-align: middle; margin-top: 10px;">
 </h1>
 ## ✨ A Quick Snapshot
