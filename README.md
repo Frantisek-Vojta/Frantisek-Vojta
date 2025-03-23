@@ -1,4 +1,4 @@
-# 👋 <span id="typewriter"></span>
+# 👋 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta)
 
 ---
 
@@ -20,19 +20,3 @@
 ## 🤝 Connect with Me  
 
 You can find me on Discord: **xcel_cze**. 😊  
-
----
-
-<!-- Typewriter effect -->
-<script>
-const text = "Hi, I'm František Vojta";
-let i = 0;
-function typeWriter() {
-    if (i < text.length) {
-        document.getElementById("typewriter").innerHTML += text.charAt(i);
-        i++;
-        setTimeout(typeWriter, 100);
-    }
-}
-typeWriter();
-</script>
