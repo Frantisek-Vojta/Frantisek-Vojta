@@ -3,6 +3,9 @@
   <p style="font-size: 14px;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=435&lines=I+use+Arch+btw" alt="Typing Effect" style="vertical-align: middle;">
   </p>
+  <p style="font-size: 10px;">
+    <sub>I use Arch btw</sub>
+  </p>
 </h1>
 
 
