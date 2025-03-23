@@ -5,7 +5,6 @@
 
 
 
-
 ---
 
 ## ✨ A Quick Snapshot
