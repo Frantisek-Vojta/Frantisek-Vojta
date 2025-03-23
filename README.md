@@ -1,5 +1,5 @@
-<h1 align="left">
-  👋 Hi, I'm František Vojta
+<h1 align="center">
+  👋 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta)
 </h1>
 
 ---
@@ -22,7 +22,3 @@
 ## 🤝 Connect with Me  
 
 You can find me on Discord: **xcel_cze**. 😊  
-
----
-
-![Typing Text Animation](https://your_link_to_gif_or_image.gif)
