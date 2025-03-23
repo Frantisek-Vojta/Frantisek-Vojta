@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta)
+  👋 https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta
 </h1>
 
 ---
