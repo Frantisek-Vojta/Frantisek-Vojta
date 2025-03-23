@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta" alt="Typing Effect" height="80px">
+  👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FFFF&width=435&lines=Hi%2C+I'm+František+Vojta" alt="Typing Effect" height="20px">
 </h1>
 
 ## ✨ A Quick Snapshot
