@@ -6,9 +6,7 @@
 
 
 
-
-
-
+---
 
 ## ✨ A Quick Snapshot
 
@@ -16,8 +14,8 @@
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
 
----
 
+---
 ## 📊 My GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frantisek-Vojta&langs_count=4&layout=compact&theme=react" />  
