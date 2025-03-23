@@ -23,4 +23,4 @@
 
 ## 🤝 Connect with Me  
 
-You can find me on Discord: **xcel_cze**. 😊
+You can find me on Discord: **xwelek**. 😊
