@@ -1,21 +1,5 @@
 <h1 align="left">
-  👋 <svg viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="35" font-size="24" fill="#00FFFF">
-      <tspan id="typewriter"></tspan>
-    </text>
-    <script>
-      const text = "Hi, I'm František Vojta";
-      let i = 0;
-      function typeWriter() {
-        if (i < text.length) {
-          document.getElementById("typewriter").textContent += text.charAt(i);
-          i++;
-          setTimeout(typeWriter, 100);
-        }
-      }
-      typeWriter();
-    </script>
-  </svg>
+  👋 Hi, I'm František Vojta
 </h1>
 
 ---
@@ -38,3 +22,7 @@
 ## 🤝 Connect with Me  
 
 You can find me on Discord: **xcel_cze**. 😊  
+
+---
+
+![Typing Text Animation](https://your_link_to_gif_or_image.gif)
