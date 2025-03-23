@@ -9,7 +9,7 @@
 - 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
-- <img src="https://www.kindpng.com/picc/m/235-2350019_arch-linux-arch-linux-logo-hd-png-download.png" alt="Arch Linux Logo" style="height: 20px;"> **Arch Linux User:** I love experimenting with Arch Linux! 🐧
+- <img src="[https://www.kindpng.com/picc/m/235-2350019_arch-linux-arch-linux-logo-hd-png-download.png](https://www.kindpng.com/picc/m/97-976013_arch-linux-logo-png-png-download-arch-linux.png)" alt="Arch Linux Logo" style="height: 20px;"> **Arch Linux User:** I love experimenting with Arch Linux! 🐧
 
 ---
 
