@@ -1,7 +1,8 @@
 <h1 align="center" style="font-weight: bold; font-size: 24px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=435&lines=Hi%2C+%20%F0%9F%91%8B%20+I%27m+Franti%C5%A1ek+Vojta" alt="Typing Effect" style="vertical-align: middle;">
+  <p align="center" style="color: #00FFFF; font-size: 10px;">i use arch btw</p>
 </h1>
-<p align="center" style="color: #00FFFF; font-size: 10px;">i use arch btw</p>
+
 
 
 
