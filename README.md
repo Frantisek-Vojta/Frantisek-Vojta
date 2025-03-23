@@ -6,7 +6,7 @@
 
 ## ✨ A Quick Snapshot
 
-- 🎓 **Education:** IT student with a focus on applications  
+- 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
 
