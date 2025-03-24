@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=635&lines=Hi%2C+%20%F0%9F%91%8B%20+I%27m+Franti%C5%A1ek+Vojta+also+known+as+xCel_dev" alt="Typing Effect" />
-  <span style="font-size: 10px;">i use arch btw</span>
+  <span style="font-size: 10px;">i use arch btw</span> <img src="https://www.pngitem.com/pimgs/m/19-195396_arch-linux-logo-png-transparent-png.png" />
 </div>
 
 
