@@ -17,18 +17,17 @@
 
 ---
 
-## 🤖 My Discord Bot - Mr. Koblížek
+## 🤖 My Discord Bot - Mr. Koblizek
 
-I'm developing a Discord bot called **Mr. Koblizek**, which includes a variety of fun and useful commands.  
+I'm developing a Discord bot called **Mr. Koblizek**, written in **Java**, which includes a variety of fun and useful commands.  
 Some of them are:  
-- `/ping` - Check the bot's response time.  
 - `/guess <your number>` - A simple number guessing game.  
 - `/botinfo` - Get info about the bot.  
 - `/meme` - Show a random funny meme.  
-- `/idk` - Just ¯\\_()_/¯  
+- `/freenitro` - Give you a free basic nitro 100% working no scam frfr  
 ... and many more!  
 
-Mr. Koblížek is still in **beta**, so it may not always be stable. However, it's hosted **24/7**!  
+Mr. Koblizek is still in **beta**, so it may not always be stable. However, it's hosted **24/7**!  
 You can add him to your server here:  
 👉 **[Invite Mr. Koblizek to your server](https://discord.com/oauth2/authorize?client_id=1346908051592187914&permissions=8&integration_type=0&scope=bot)** 👈  
 
