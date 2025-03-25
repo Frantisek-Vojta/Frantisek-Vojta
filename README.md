@@ -19,18 +19,18 @@
 
 ## 🤖 My Discord Bot - Mr. Koblížek
 
-I'm developing a Discord bot called **Mr. Koblížek**, which includes a variety of fun and useful commands.  
+I'm developing a Discord bot called **Mr. Koblizek**, which includes a variety of fun and useful commands.  
 Some of them are:  
 - `/ping` - Check the bot's response time.  
 - `/guess <your number>` - A simple number guessing game.  
 - `/botinfo` - Get info about the bot.  
 - `/meme` - Show a random funny meme.  
-- `/idk` - Just ¯\_(ツ)_/¯  
+- `/idk` - Just ¯\\_()_/¯  
 ... and many more!  
 
 Mr. Koblížek is still in **beta**, so it may not always be stable. However, it's hosted **24/7**!  
 You can add him to your server here:  
-👉 **[Invite Mr. Koblížek](https://discord.com/oauth2/authorize?client_id=1346908051592187914&permissions=8&integration_type=0&scope=bot)** 👈  
+👉 **[Invite Mr. Koblizek to your server](https://discord.com/oauth2/authorize?client_id=1346908051592187914&permissions=8&integration_type=0&scope=bot)** 👈  
 
 ---
 
