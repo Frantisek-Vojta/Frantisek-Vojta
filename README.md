@@ -4,10 +4,7 @@
   i use arch btw 
   <img src="https://www.pngitem.com/pimgs/m/19-195396_arch-linux-logo-png-transparent-png.png" alt="Arch Linux Logo" width="15" height="15" style="margin-left: 2px;">
 </span>
-
-
 </div>
-
 
 ---
 
@@ -16,9 +13,23 @@
 - 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
-
+- 🤖 **Discord Bot Developer:** Currently working on a project called **Mr. Koblížek**.
 
 ---
+
+## 🤖 My Discord Bot - Mr. Koblizek
+
+I'm developing a Discord bot called **Mr. Koblížek**, which includes commands like:
+- `/ping` - Check the bot's response time.
+- `/guess` - A number guessing game.
+- `/help` - Displays available commands.
+
+Mr. Koblížek is still in **beta**, so it may not always be stable. However, it's hosted **24/7**!  
+You can add him to your server here:  
+👉 **[Invite Mr. Koblizek](https://discord.com/oauth2/authorize?client_id=1346908051592187914&permissions=8&integration_type=0&scope=bot)** 👈  
+
+---
+
 ## 📊 My GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frantisek-Vojta&langs_count=4&layout=compact&theme=react" />  
