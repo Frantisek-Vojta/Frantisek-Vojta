@@ -35,8 +35,8 @@ You can add him to your server here:
 
 ## 📊 My GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frantisek-Vojta&langs_count=4&layout=compact&theme=react" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Frantisek-Vojta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frantisek-Vojta&langs_count=4&layout=compact&theme=react&card_width=450" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Frantisek-Vojta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=450" />  
 
 ---
 
