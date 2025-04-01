@@ -9,7 +9,7 @@
 ---
 
 ## ✨ A Quick Snapshot
-- 🔭 **Currently working on:** a secure Password Manager in Java! 🚀
+- 🔭 **Currently working on:** a secure Password Manager in Java! 
 - 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
