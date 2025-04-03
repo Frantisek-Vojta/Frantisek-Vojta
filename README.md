@@ -13,7 +13,7 @@
 - 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
 - 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
-- 🤖 **Discord Bot Developer:** Currently working on a project called **Mr. Koblizek**.
+- 🤖 **Discord Bot Developer:** A project called **Mr. Koblizek**.
 
 ---
 
