@@ -21,7 +21,7 @@ Some of them are:
 - `/botinfo` - Get info about the bot.  
 - `/meme` - Show a random funny meme.  
 - `/freenitro` - Give you a free basic nitro 100% working no scam frfr.
-- `/e bet` - You can gamble with in bot economy money.
+- `/e slots` - You can gamble with in bot economy money.
 - `/e work` - every 6 hours you can write this comment to get some money. 
 - `/e help` - For all economy commands.
 ... and many more!  
