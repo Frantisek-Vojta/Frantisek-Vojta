@@ -20,12 +20,14 @@ Some of them are:
 - `/guess <your number>` - A simple number guessing game.  
 - `/botinfo` - Get info about the bot.  
 - `/meme` - Show a random funny meme.  
-- `/freenitro` - Give you a free basic nitro 100% working no scam frfr  
+- `/freenitro` - Give you a free basic nitro 100% working no scam frfr.
+- `/e bet` - You can gamble with in bot economy money.
+- `/e work` - every 6 hours you can write this comment to get some money. 
+- `/e help` - For all economy commands.
 ... and many more!  
 
-Mr. Koblizek is still in **beta**, so it may not always be stable. However, it's hosted **24/7**!  
-You can add him to your server here:  
-👉 **[Invite Mr. Koblizek to your server](https://discord.com/oauth2/authorize?client_id=1346908051592187914&permissions=8&integration_type=0&scope=bot)** 👈  
+Mr. Koblizek is still in **beta**, so it may not always be stable.  
+
 
 ---
 
