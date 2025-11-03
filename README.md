@@ -3,13 +3,14 @@
 </div>
 
 ---
-
+https://frantisekvojta.cz
+---
 ## ✨ A Quick Snapshot
-- 🔭 **Currently working on:** mr. Kobližek! 
+- 🔭 **Currently working on:** 🤫 
 - 🎓 **Education:** IT student
 - 💡 **Skills:** junior in Java, Python, and web development  
-- 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems.  
-- 🤖 **Discord Bot Developer:** A project called **Mr. Koblizek**.
+- 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems - I use arch btw.  
+
 
 ---
 
