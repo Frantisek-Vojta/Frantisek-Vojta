@@ -5,33 +5,34 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**  
-- 🌱 Constantly learning new tech and improving my workflow  
-- 🧩 Love solving problems and building meaningful digital tools  
-- 🐧 Daily driver: **Arch Linux** with tiling WMs  
-- 🎮 Enjoy creating tools for communities — Discord bots, automation, setups  
+- 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**
+- 🌱 Constantly learning new tech and improving my workflow
+- 🧩 Love solving problems and building meaningful digital tools
+- 🐧 Daily driver: **Arch Linux** (yes… I use Arch btw 😎)
+- 🎮 Enjoy creating tools for communities — Discord bots, automation, setups
 - 🚀 Focused on becoming a strong full-stack & application developer
 
 ---
 
 ## 🚀 I'm currently working on
-- Personal **developer portfolio** (Japanese-inspired design, cyan accents)  
+- Personal **developer portfolio** (Japanese-inspired, cyan accents)  
 - Advanced **Discord bot** with anti-raid protection  
 - Full-stack projects in **Laravel**, **Angular**, and **Ionic**  
 - System customization on **Arch Linux**, Hyprland & Meowrch  
-- Small Java/Kotlin applications for experimentation
+- Java/Kotlin/Python apps & experiments
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 
 <div align="center">
 
 ### Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css,angular,laravel,ionic&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,angular,laravel,ionic&theme=light" />
 
 ### Operating Systems / Window Managers  
-<img src="https://skillicons.dev/icons?i=arch&theme=light" /><br>
+<img src="https://skillicons.dev/icons?i=arch&theme=light" />  
+<br>
 <img height="45" src="https://raw.githubusercontent.com/Aylur/Hyprland/main/assets/hyprland-logo.svg" />
 <img height="45" src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icons/meow.png" />
 
@@ -40,18 +41,23 @@
 ---
 
 ## 🌐 Connect With Me
+
 <div align="center">
 
 <a href="mailto:frantisek.vojta@orbiszlin.cz">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://your-portfolio-link-here.com">
-  <img src="https://skillicons.dev/icons?i=webflow" height="48" />
+<br/>
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20website-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
+
+<br/>
 
 <a href="https://discord.com/users/YOUR_ID_HERE">
-  <img src="https://skillicons.dev/icons?i=discord" height="48" />
+  <img src="https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
