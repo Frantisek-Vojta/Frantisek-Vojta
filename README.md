@@ -27,14 +27,7 @@
 
 <div align="center">
 
-### Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,angular,laravel,ionic&theme=light" />
-
-### Operating Systems / Window Managers  
-<img src="https://skillicons.dev/icons?i=arch&theme=light" />  
-<br>
-<img height="45" src="https://raw.githubusercontent.com/Aylur/Hyprland/main/assets/hyprland-logo.svg" />
-<img height="45" src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icons/meow.png" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,js,mysql,php,arch,figma,laravel,ionic,hyprland&theme=light" />
 
 </div>
 
