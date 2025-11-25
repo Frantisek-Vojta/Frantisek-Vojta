@@ -3,42 +3,55 @@
 </div>
 
 ---
-##### https://frantisekvojta.cz
----
-## ✨ A Quick Snapshot
-- 🔭 **Currently working on:** 🤫 
-- 🎓 **Education:** IT student
-- 💡 **Skills:** junior in Java, Python, and web development  
-- 🐧 **Linux Enthusiast:** I enjoy using and experimenting with Linux-based systems - I use arch btw.  
 
-
----
-
-## 🤖 My Discord Bot - Mr. Koblizek
-
-I'm developing a Discord bot called **Mr. Koblizek**, written in **Java**, which includes a variety of fun and useful commands.  
-Some of them are:  
-- `/guess <your number>` - A simple number guessing game.  
-- `/botinfo` - Get info about the bot.  
-- `/meme` - Show a random funny meme.  
-- `/freenitro` - Give you a free basic nitro 100% working no scam frfr.
-- `/e slots` - You can gamble with in bot economy money.
-- `/e work` - every 6 hours you can write this comment to get some money. 
-- `/e help` - For all economy commands.
-... and many more!  
-
-Mr. Koblizek is still in **beta**, so it may not always be stable.  
-
+## 🧑‍💻 About Me
+- 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**  
+- 🌱 Constantly learning new tech and improving my workflow  
+- 🧩 Love solving problems and building meaningful digital tools  
+- 🐧 Daily driver: **Arch Linux** with tiling WMs  
+- 🎮 Enjoy creating tools for communities — Discord bots, automation, setups  
+- 🚀 Focused on becoming a strong full-stack & application developer
 
 ---
 
-## 📊 My GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frantisek-Vojta&langs_count=4&layout=compact&theme=react&card_width=450" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Frantisek-Vojta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=450" />  
+## 🚀 I'm currently working on
+- Personal **developer portfolio** (Japanese-inspired design, cyan accents)  
+- Advanced **Discord bot** with anti-raid protection  
+- Full-stack projects in **Laravel**, **Angular**, and **Ionic**  
+- System customization on **Arch Linux**, Hyprland & Meowrch  
+- Small Java/Kotlin applications for experimentation
 
 ---
 
-## 🤝 Connect with Me  
+## 🛠️ Technologies & Tools
 
-You can find me on Discord: **xcel_cze**. 😊
+<div align="center">
+
+### Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css,angular,laravel,ionic&theme=light" />
+
+### Operating Systems / Window Managers  
+<img src="https://skillicons.dev/icons?i=arch&theme=light" /><br>
+<img height="45" src="https://raw.githubusercontent.com/Aylur/Hyprland/main/assets/hyprland-logo.svg" />
+<img height="45" src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icons/meow.png" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+<div align="center">
+
+<a href="mailto:frantisek.vojta@orbiszlin.cz">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+
+<a href="https://your-portfolio-link-here.com">
+  <img src="https://skillicons.dev/icons?i=webflow" height="48" />
+</a>
+
+<a href="https://discord.com/users/YOUR_ID_HERE">
+  <img src="https://skillicons.dev/icons?i=discord" height="48" />
+</a>
+
+</div>
