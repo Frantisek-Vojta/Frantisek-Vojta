@@ -45,7 +45,7 @@
 <div align="center">
 
 <a href="mailto:frantisek.vojta@orbiszlin.cz">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
