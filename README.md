@@ -8,18 +8,17 @@
 - 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**
 - 🌱 Constantly learning new tech and improving my workflow
 - 🧩 Love solving problems and building meaningful digital tools
-- 🐧 Daily driver: **Arch Linux** (yes… I use Arch btw 😎)
+- 🐧 Operating System: **Arch Linux + Hyprland with meowrch** (yes… I use Arch btw 😎)
 - 🎮 Enjoy creating tools for communities — Discord bots, automation, setups
 - 🚀 Focused on becoming a strong full-stack & application developer
 
 ---
 
 ## 🚀 I'm currently working on
-- Personal **developer portfolio** (Japanese-inspired, cyan accents)  
+- Social Grimmmer - app in ionic
 - Advanced **Discord bot** with anti-raid protection  
 - Full-stack projects in **Laravel**, **Angular**, and **Ionic**  
-- System customization on **Arch Linux**, Hyprland & Meowrch  
-- Java/Kotlin/Python apps & experiments
+
 
 ---
 
