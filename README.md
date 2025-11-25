@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<a href="mailto:frantisek.vojta@orbiszlin.cz">
+<a href="mailto:vojta.fran@gmail.com">
   <img src="https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
