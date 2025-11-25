@@ -41,13 +41,11 @@
   <img src="https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
 
 <a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20website-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-<br/>
 
 <a href="https://discord.com/users/YOUR_ID_HERE">
   <img src="https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
