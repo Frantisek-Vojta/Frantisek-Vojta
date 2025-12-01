@@ -17,7 +17,7 @@
 ## 🚀 I'm currently working on
 - Social Grimmmer - app in ionic
 - Advanced **Discord bot** with anti-raid protection  
-- Full-stack projects in **Laravel**, **Angular**, and **Ionic**  
+- 
 
 
 ---
