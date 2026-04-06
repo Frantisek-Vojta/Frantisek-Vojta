@@ -8,7 +8,6 @@
 - 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**
 - 🌱 Constantly learning new tech and improving my workflow
 - 🧩 Love solving problems and building meaningful digital tools
-- 🐧 Operating System: **Arch Linux + Hyprland with meowrch** (yes… I use Arch btw 😎)
 - 🎮 Enjoy creating tools for communities — Discord bots, automation, setups
 - 🚀 Focused on becoming a strong full-stack & application developer
 
@@ -25,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java,docker,expo" />
+<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java,docker" />
 
 </div>
 
