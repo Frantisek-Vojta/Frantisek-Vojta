@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 I'm currently working on
-- Advanced **Discord bot** with anti-raid protection  
+- Minecraft plugin - chunk unlocker 
 - Mobile app - subscription manager in react native 
 
 
