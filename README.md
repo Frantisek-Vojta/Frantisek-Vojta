@@ -4,23 +4,23 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**
-- 🌱 Constantly learning new tech and improving my workflow
-- 🧩 Love solving problems and building meaningful digital tools
-- 🎮 Enjoy creating tools for communities — Discord bots, automation, setups
-- 🚀 Focused on becoming a strong full-stack & application developer
+## About Me
+- Passionate about **web development**, **mobile apps**, and **backend systems**
+- Constantly learning new tech and improving my workflow
+- Love solving problems and building meaningful digital tools
+- Enjoy creating tools for communities — Discord bots, automation, setups
+- Focused on becoming a strong full-stack & application developer
 
 ---
 
-## 🚀 I'm currently working on
+## I'm currently working on
 - Minecraft plugin - chunk unlocker 
 - Mobile app - subscription manager in react native 
 
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
