@@ -32,24 +32,7 @@
 
 ## Connect With Me
 
-<div align="center">
-
-<a href="mailto:vojta.fran@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
-<a href="https://frantisekvojta.cz">
-  <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-
-<a href="https://discord.com/users/YOUR_ID_HERE">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://github.com/xcelek-dev">
-  <img src="https://img.shields.io/badge/Minecraft_&_Discord-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- **E-mail:** [vojta.fran@gmail.com](mailto:vojta.fran@gmail.com)
+- **Portfolio:** [frantisekvojta.cz](https://frantisekvojta.cz)
 
 </div>
