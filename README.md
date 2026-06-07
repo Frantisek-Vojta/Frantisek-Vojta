@@ -15,9 +15,8 @@
 ---
 
 ## I'm currently working on
-- Minecraft plugin - chunk unlocker 
-- Mobile app - subscription manager in react native 
-
+- **Mobile app** - subscription manager in react native
+- **Discord bot** - mr. koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
 
