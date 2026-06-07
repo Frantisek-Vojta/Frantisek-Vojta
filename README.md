@@ -16,7 +16,7 @@
 
 ## I'm currently working on
 - **Mobile app** - subscription manager in react native
-- **Discord bot** - mr. koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
+- **Discord bot** - mr. Koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
 
