@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java,docker" />
+<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java" />
 
 </div>
 
