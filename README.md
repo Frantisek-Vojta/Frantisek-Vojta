@@ -15,7 +15,7 @@
 ---
 
 ## I'm currently working on
-- **Mobile app** - subscription manager in react native
+- **Website** - Readme generator in next.js and typescript
 - **Discord bot** - mr. Koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
