@@ -25,11 +25,10 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java" />
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<br /><br />
+<img src="https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 
 </div>
-
 ---
 
 ## Connect With Me
