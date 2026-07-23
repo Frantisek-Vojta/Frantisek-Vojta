@@ -24,17 +24,22 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark)](https://git.io/streak-stats)
+<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java" />
 
 </div>
 
 ---
+
 ## Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Frantisek-vojta" />
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 </div>
 ---
+
+
 
 ## Connect With Me
 
