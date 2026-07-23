@@ -29,6 +29,12 @@
 </div>
 
 ---
+## Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Frantisek-vojta" />
+</div>
+---
 
 ## Connect With Me
 
