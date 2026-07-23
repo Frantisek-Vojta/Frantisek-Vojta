@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
