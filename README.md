@@ -20,26 +20,17 @@
 
 ---
 
-## Technologies
+## Technologies and stats
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,laravel,php,ts,js,css,html,python,java" />
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 </div>
 
 ---
-
-## Stats
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-</div>
----
-
-
 
 ## Connect With Me
 
