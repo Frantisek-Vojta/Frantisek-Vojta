@@ -29,6 +29,7 @@
 <img src="https://streak-stats.demolab.com?user=Frantisek-Vojta&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 
 </div>
+
 ---
 
 ## Connect With Me
