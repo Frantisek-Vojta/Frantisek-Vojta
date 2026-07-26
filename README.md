@@ -15,7 +15,7 @@
 ---
 
 ## I'm currently working on
-- **Website** - Readme generator in next.js and typescript
+- **Widget for Mewline** - [/HyprStats](https://github.com/frantisek-vojta/hyprstats)
 - **Discord bot** - mr. Koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
