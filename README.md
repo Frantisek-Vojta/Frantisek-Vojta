@@ -8,7 +8,7 @@
 - Passionate about **web development**, **mobile apps**, and **backend systems**
 - Constantly learning new tech and improving my workflow
 - Love solving problems and building meaningful digital tools
-- Enjoy creating tools for communities — Discord bots, automation, setups
+- Enjoy creating tools for communities - Discord bots, automation, setups
 - Focused on becoming a strong full-stack & application developer
 - **Gaming & Community Projects:** For my Minecraft plugins, mods, and Discord bots, check out my secondary account: [@xcelek-dev](https://github.com/xcelek-dev)
 
