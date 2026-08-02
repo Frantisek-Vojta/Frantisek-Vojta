@@ -15,7 +15,7 @@
 ---
 
 ## I'm currently working on
-- **Widget for Mewline** - [/HyprStats](https://github.com/frantisek-vojta/hyprstats)
+- **System monitor widget for Mewline/Wayland** - [/HyprStats](https://github.com/frantisek-vojta/hyprstats)
 - **Discord bot** - mr. Koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
